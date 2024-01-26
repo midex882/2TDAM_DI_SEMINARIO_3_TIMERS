@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="cards">
+        <item>@drawable/c0</item>
+        <item>@drawable/c1</item>
+        <item>@drawable/c2</item>
+        <item>@drawable/c3</item>
+    </integer-array>
+</resources>

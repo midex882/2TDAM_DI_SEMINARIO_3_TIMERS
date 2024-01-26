@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent"
+    android:gravity="center">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/ejercicio1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:text="ejercicio 1"
+        ></androidx.appcompat.widget.AppCompatButton>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/ejercicio2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:text="ejercicio 2"
+        ></androidx.appcompat.widget.AppCompatButton>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/ejercicio3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:text="ejercicio 3"
+        ></androidx.appcompat.widget.AppCompatButton>
+
+</LinearLayout>
